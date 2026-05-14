@@ -1,4 +1,4 @@
-# 
+# instant Polymarket Addon | prediction-market-scanning + multi-exchange-support offers the most advanced Polymarket addon, with prediction-market-scanning and
 
 
 
